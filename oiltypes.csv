@@ -1,0 +1,88 @@
+Engine CC,minMilage,maxMilage,Recommended Engine Oil,Brand Names
+1000,0,100000,Fully synthetic oil 5W-30,Mobil 1
+1000,0,100000,Fully synthetic oil 5W-30,Shell Helix Ultra
+1000,0,100000,Fully synthetic oil 5W-30,Liqui Moly Synthoil
+1000,0,100000,Fully synthetic oil 5W-30,Castrol Edge
+1000,0,100000,Fully synthetic oil 5W-30,Total Quartz 9000
+1000,100000,200000,Synthetic blend oil 5W-30,Valvoline SynPower
+1000,100000,200000,Synthetic blend oil 5W-30,Kixx PAO
+1000,100000,200000,Synthetic blend oil 5W-30,ZIC X9
+1000,100000,200000,Synthetic blend oil 5W-30,Caltex Delo 400 Synthetic Blend
+1000,0,100000,Synthetic blend oil 5W-30,Fuchs Titan GT1 Pro C3
+1000,0,200000,High-mileage oil 5W-30,Castrol GTX High Mileage
+1000,0,200000,High-mileage oil 5W-30,Valvoline MaxLife
+1000,0,200000,High-mileage oil 5W-30,Kixx High Mileage
+1000,0,200000,High-mileage oil 5W-30,ZIC A+
+1000,0,200000,High-mileage oil 5W-30,Caltex Delo 400 Synthetic Blend High Mileage
+1500,0,100000,Fully synthetic oil 5W-30,Mobil 1 ESP
+1500,0,100000,Fully synthetic oil 5W-30,Shell Helix Ultra
+1500,0,100000,Fully synthetic oil 5W-30,Liqui Moly Leichtlauf Special LL
+1500,0,100000,Fully synthetic oil 5W-30,Castrol Edge
+1500,0,100000,Fully synthetic oil 5W-30,Total Quartz 9000 Energy
+1500,100000,200000,Synthetic blend oil 5W-40,Valvoline SynPower
+1500,100000,200000,Synthetic blend oil 5W-40,Kixx PAO
+1500,100000,200000,Synthetic blend oil 5W-40,ZIC X7
+1500,100000,200000,Synthetic blend oil 5W-40,Caltex Delo 400 Synthetic Blend
+1500,100000,200000,Synthetic blend oil 5W-40,Fuchs Titan GT1 Pro C1
+1500,0,200000,High-mileage oil 5W-40,Castrol GTX High Mileage
+1500,0,200000,High-mileage oil 5W-40,Valvoline MaxLife
+1500,0,200000,High-mileage oil 5W-40,Kixx High Mileage
+1500,0,200000,High-mileage oil 5W-40,ZIC A+
+1500,0,200000,High-mileage oil 5W-40,Caltex Delo 400 Synthetic Blend High Mileage
+2000,0,100000,Fully synthetic oil 0W-40,Mobil 1 0W-40
+2000,0,100000,Fully synthetic oil 0W-40,Shell Helix Ultra
+2000,0,100000,Fully synthetic oil 0W-40,Liqui Moly Molygen Motoröl 0W-40
+2000,0,100000,Fully synthetic oil 0W-40,Castrol Edge 0W-40
+2000,0,100000,Fully synthetic oil 0W-40,Total Quartz 9000 Future
+2000,100000,200000,Synthetic blend oil 5W-40,Valvoline SynPower 0W-40
+2000,100000,200000,Synthetic blend oil 5W-40,Kixx PAO 0W-40
+2000,100000,200000,Synthetic blend oil 5W-40,ZIC X9 0W-40
+2000,100000,200000,Synthetic blend oil 5W-40,Caltex Delo 400 Synthetic Blend 0W-40
+2000,100000,200000,Synthetic blend oil 5W-40,Fuchs Titan GT1 Pro C2
+2000,0,200000,High-mileage oil 5W-50,Castrol GTX High Mileage 5W-50
+2000,0,200000,High-mileage oil 5W-50,Valvoline MaxLife 5W-50
+2000,0,200000,High-mileage oil 5W-50,Kixx High Mileage 5W-50
+2000,0,200000,High-mileage oil 5W-50,ZIC A+ 5W-50
+2000,0,200000,High-mileage oil 5W-50,Caltex Delo 400 Synthetic Blend High Mileage 5W-50
+3000,0,100000,Fully synthetic oil 5W-40,Mobil 1 ESP x2 5W-40
+3000,0,100000,Fully synthetic oil 5W-40,Shell Helix Ultra E
+3000,0,100000,Fully synthetic oil 5W-40,Castrol Edge Titanium FST 5W-40
+3000,0,100000,Fully synthetic oil 5W-40,Total Quartz 9000 Future Eco
+3000,0,100000,Fully synthetic oil 5W-40,Liqui Moly Leichtlauf Special LL 5W-40
+3000,100000,200000,Synthetic blend oil 10W-40,Valvoline SynPower 10W-40
+3000,100000,200000,Synthetic blend oil 10W-40,Kixx PAO 10W-40
+3000,100000,200000,Synthetic blend oil 10W-40,ZIC X7 10W-40
+3000,100000,200000,Synthetic blend oil 10W-40,Caltex Delo 400 Synthetic Blend 10W-40
+3000,100000,200000,Synthetic blend oil 10W-40,Fuchs Titan GT1 Pro C4
+3000,0,200000,High-mileage oil 10W-50,Castrol GTX High Mileage 10W-50
+3000,0,200000,High-mileage oil 10W-50,Valvoline MaxLife 10W-50
+3000,0,200000,High-mileage oil 10W-50,Kixx High Mileage 10W-50
+3000,0,200000,High-mileage oil 10W-50,ZIC A+ 10W-50
+3000,0,200000,High-mileage oil 10W-50,Caltex Delo 400 Synthetic Blend High Mileage 10W-50
+4000,0,100000,Fully synthetic oil 10W-40,Mobil 1 10W-40
+4000,0,100000,Fully synthetic oil 10W-40,Shell Helix Ultra
+4000,0,100000,Fully synthetic oil 10W-40,Liqui Moly Molygen Motoröl 10W-40
+4000,0,100000,Fully synthetic oil 10W-40,Castrol Edge 10W-40
+4000,0,100000,Fully synthetic oil 10W-40,Total Quartz 9000 Energy
+4000,100000,200000,Synthetic blend oil 15W-40,Valvoline SynPower 15W-40
+4000,100000,200000,Synthetic blend oil 15W-40,Kixx PAO 15W-40
+4000,100000,200000,Synthetic blend oil 15W-40,ZIC X9 15W-40
+4000,100000,200000,Synthetic blend oil 15W-40,Caltex Delo 400 Synthetic Blend 15W-40
+4000,100000,200000,Synthetic blend oil 15W-40,Fuchs Titan GT1 Pro C5
+4000,0,200000,High-mileage oil 15W-50,Castrol GTX High Mileage 15W-50
+4000,0,200000,High-mileage oil 15W-50,Valvoline MaxLife 15W-50
+4000,0,200000,High-mileage oil 15W-50,Kixx High Mileage 15W-50
+4000,0,200000,High-mileage oil 15W-50,ZIC A+ 15W-50
+4000,0,200000,High-mileage oil 15W-50,Caltex Delo 400 Synthetic Blend High Mileage 15W-50
+5000,0,100000,Fully synthetic oil 15W-40,Mobil 1 15W-40
+5000,0,100000,Fully synthetic oil 15W-40,Shell Helix Ultra
+5000,0,100000,Fully synthetic oil 15W-40,Liqui Moly Molygen Motoröl 15W-40
+5000,0,100000,Fully synthetic oil 15W-40,Castrol Edge 15W-40
+5000,0,100000,Fully synthetic oil 15W-40,Total Quartz 9000 Future
+5000,100000,200000,Synthetic blend oil 20W-50,Valvoline SynPower 20W-50
+5000,100000,200000,Synthetic blend oil 20W-50,Kixx PAO 20
+5000,0,200000,High-mileage oil 20W-50,Castrol GTX High Mileage 20W-50
+5000,0,200000,High-mileage oil 20W-50,Havoline Motor Oil SAE 20W-50
+5000,0,200000,High-mileage oil 20W-50,AMSOIL 20W-50 Premium Protection 946ml
+5000,0,200000,High-mileage oil 20W-50,ZIC X9 20W-50 High Mileage Motor Oil
+5000,0,200000,High-mileage oil 20W-50,Caltex Delo 400 20W-50
